@@ -1,0 +1,100 @@
+locale:
+  name: English
+translation:
+  header:
+    title: Web Conv.
+    update: Update
+  system-config:
+    title: System Configuration
+    theme: Theme
+    auto: Auto
+    light: Light
+    dark: Dark
+    language: Language
+    close: Close
+  input-config:
+    title: Input Configuration
+    none: None
+    reset: Reset
+  map-config:
+    key: Key
+    shift-mode: Shift Mode
+    play-mode: Play Mode
+    melody: Melody
+    layout: Layout
+    anacon-midi-conv: Ana-Con MIDI Conv
+    band-brothers: Band Brothers
+    key-button: Key Button
+    functions: Functions
+    reset: Reset
+    chord: Chord
+    chord-set: Chord Set
+  synth-config:
+    source: Source
+    oscillator: Oscillator
+    waveform: Waveform
+    sine: Sine
+    square: Square
+    triangle: Triangle
+    sawtooth: Sawtooth
+    fatsine: Fat Sine
+    fatsquare: Fat Square
+    fattriangle: Fat Triangle
+    fatsawtooth: Fat Sawtooth
+    number-of-oscillators: Number of oscillators
+    spread: Spread
+    detune: Detune
+    cent_one: "{{count}} cent"
+    cent_other: "{{count}} cents"
+    attack: Attack
+    decay: Decay
+    sustain: Sustain
+    release: Release
+    volume: Volume
+  visualizer-config:
+    add-visualizer: "Add {{name}}"
+    note-name: Note Name
+    keyboard: Keyboard
+    innocence: Innocence
+    show-octave: Show Octave
+    show-button: Show Button
+    pitch: Pitch
+    absolute: Absolute
+    relative: Relative
+    range: Range
+    octave_one: "±{{count}} octave"
+    octave_other: "±{{count}} octaves"
+    highlight-standby: Highlight standby
+    shape: Shape
+    random: Random
+    line: Line
+    square: Square
+    triangle: Triangle
+    circle: Circle
+    on: 'On'
+    off: 'Off'
+  track:
+    add-track: Add Track
+    track-name: Track name
+    input: Input
+    map: Map
+    synthesizer: Synthesizer
+    visualizer: Visualizer
+    delete: Delete
+    delete-this-track: Delete this track
+    delete-confirm: Are you sure you want to delete this track? This operation cannot be undone.
+    delete-cancel: Cancel
+    delete-do: Delete
+  scale:
+    title: Scale
+    ionian: Ionian (Major)
+    dorian: Dorian
+    phrigian: Phrigian
+    lydian: Lydian
+    mixolydian: Mixolydian
+    aeolian: Aeolian (Natural minor)
+    locrian: Locrian
+    harmonic-minor: Harmonic minor
+    melodic-minor: Melodic minor
+  footer:
+    license: This app is licensed under <1>The MIT License</1>.

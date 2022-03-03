@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.workingDirectories": [
+    { "directory": "." },
+    { "directory": ".storybook", "!cwd": true }
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

@@ -1,0 +1,98 @@
+locale:
+  name: 日本語
+translation:
+  header:
+    title: Web昆布
+    update: アップデート
+  system-config:
+    title: システム設定
+    theme: テーマ
+    auto: 自動
+    light: ライト
+    dark: ダーク
+    language: 言語
+    close: 閉じる
+  input-config:
+    title: 入力設定
+    none: なし
+    reset: リセット
+  map-config:
+    key: キー
+    shift-mode: シフトモード
+    play-mode: 演奏モード
+    melody: メロディー
+    layout: レイアウト
+    anacon-midi-conv: アナコンMIDI昆布
+    band-brothers: バンドブラザーズ
+    key-button: キーボタン
+    functions: 機能
+    reset: リセット
+    chord: コード
+    chord-set: コードセット
+  synth-config:
+    source: 音源
+    oscillator: オシレーター
+    waveform: 波形
+    sine: 正弦波
+    square: 矩形波
+    triangle: 三角波
+    sawtooth: のこぎり波
+    fatsine: ファット正弦波
+    fatsquare: ファット矩形波
+    fattriangle: ファット三角波
+    fatsawtooth: ファットのこぎり波
+    number-of-oscillators: オシレーター数
+    spread: 拡散
+    detune: デチューン
+    cent: "{{count}} セント"
+    attack: アタック
+    decay: ディケイ
+    sustain: サスティン
+    release: リリース
+    volume: ボリューム
+  visualizer-config:
+    add-visualizer: "{{name}}を追加"
+    note-name: 音名
+    keyboard: キーボード
+    innocence: あの楽器
+    show-octave: オクターブを表示
+    show-button: ボタンを表示
+    pitch: 音程
+    absolute: 固定ド
+    relative: 移動ド
+    range: 範囲
+    octave: "±{{count}} オクターブ"
+    highlight-standby: 待機中の鍵盤をハイライト
+    shape: 図形
+    random: ランダム
+    line: 線
+    square: 四角形
+    triangle: 三角形
+    circle: 円
+    on: オン
+    off: オフ
+  track:
+    add-track: トラックを追加
+    track-name: トラック名
+    input: 入力
+    map: 割り当て
+    synthesizer: シンセサイザー
+    visualizer: ビジュアライザー
+    delete: 削除
+    delete-this-track: このトラックを削除
+    delete-confirm: このトラックを削除しますか? この操作は元に戻せません。
+    delete-cancel: キャンセル
+    delete-do: 削除
+  scale:
+    title: スケール
+    ionian: アイオニアン (メジャー)
+    dorian: ドリアン
+    phrigian: フリジアン
+    lydian: リディアン
+    mixolydian: ミクソリディアン
+    aeolian: エオリアン (ナチュラル・マイナー)
+    locrian: ロクリアン
+    harmonic-minor: ハーモニック・マイナー
+    melodic-minor: メロディック・マイナー
+  footer:
+    license: この Web アプリケーションは <1>The MIT License</1> の下でライセンスされています。

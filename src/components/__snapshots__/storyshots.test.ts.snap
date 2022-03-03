@@ -1,0 +1,6133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Containers/VisualizerConfigContainer Default 1`] = `
+.c6 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  gap: 0.5rem;
+  font-weight: bold;
+}
+
+.c2 {
+  padding: 0.5rem;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c5:hover {
+  background: royalblue;
+  color: white;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c7:hover {
+  background: crimson;
+  color: white;
+}
+
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Title
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <button
+        class="c5"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+          />
+        </svg>
+      </button>
+      <button
+        class="c5"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </button>
+      <button
+        class="c7"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12l1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+  Hello
+</div>
+`;
+
+exports[`Storyshots Containers/VisualizerConfigContainer No Content 1`] = `
+.c6 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: bold;
+}
+
+.c2 {
+  padding: 0.5rem;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c5:hover {
+  background: royalblue;
+  color: white;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c7:hover {
+  background: crimson;
+  color: white;
+}
+
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Title
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <button
+        class="c5"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+          />
+        </svg>
+      </button>
+      <button
+        class="c5"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </button>
+      <button
+        class="c7"
+      >
+        <svg
+          aria-hidden="true"
+          class="c6"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12l1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Panels/InputConfigPanel Default 1`] = `
+.c8 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: crimson;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c5 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  width: 100px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c7 {
+  color: black;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: black;
+  background: white;
+  -webkit-box-flex: 2;
+  -webkit-flex-grow: 2;
+  -ms-flex-positive: 2;
+  flex-grow: 2;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            12
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            13
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            14
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            15
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            0
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            1
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            2
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            3
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            4
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            5
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            6
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            7
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            8
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <svg />
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            0
+             - 
+            9
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <button
+    class="c8"
+    color="danger"
+  >
+    input-config.reset
+  </button>
+</div>
+`;
+
+exports[`Storyshots Panels/MapConfigPanel Default 1`] = `
+.c8 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c14 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c15:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c15:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c16:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c22 {
+  padding: calc(0.5rem - 1px);
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  color: unset;
+  background: unset;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+}
+
+.c23 {
+  background: white;
+  color: black;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c21 {
+  font-size: 80%;
+  text-align: center;
+}
+
+.c17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c18 {
+  border-bottom: 2px solid gray;
+  min-width: 0.5rem;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c5 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c6 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c12 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c13 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c11 {
+  color: gray;
+  font-size: 80%;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.key
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <div
+          class="c6"
+        >
+          <button
+            class="c7"
+          >
+            <svg
+              aria-hidden="true"
+              class="c8"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c9"
+          >
+            <div
+              class="c10"
+            >
+              <div>
+                60
+              </div>
+              <p
+                class="c11"
+              >
+                C4
+              </p>
+            </div>
+          </div>
+          <button
+            class="c7"
+          >
+            <svg
+              aria-hidden="true"
+              class="c8"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.shift-mode
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c16"
+              disabled=""
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              8vb
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.play-mode
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c14"
+      >
+        <button
+          class="c16"
+          disabled=""
+        >
+          map-config.melody
+        </button>
+        <button
+          class="c15"
+        >
+          map-config.chord
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c17"
+  >
+    <div
+      class="c18"
+    />
+    <div
+      class="c19"
+    >
+      <div
+        class="c14"
+      >
+        <button
+          class="c16"
+          disabled=""
+        >
+          map-config.melody
+        </button>
+        <button
+          class="c15"
+        >
+          map-config.chord
+        </button>
+      </div>
+    </div>
+    <div
+      class="c18"
+    />
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.layout
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c14"
+      >
+        <button
+          class="c16"
+          disabled=""
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              map-config.anacon-midi-conv
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              map-config.band-brothers
+            </p>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.key-button
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c14"
+      >
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              V
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              VI
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              VII
+            </p>
+          </div>
+        </button>
+        <button
+          class="c16"
+          disabled=""
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              I
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              II
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              III
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              IV
+            </p>
+          </div>
+        </button>
+        <button
+          class="c15"
+        >
+          <div
+            class="c20"
+          >
+            <svg />
+            <p
+              class="c21"
+            >
+              V
+            </p>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      scale.title
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <select
+        class="c22"
+      >
+        <option
+          class="c23"
+          selected=""
+          value="0"
+        >
+          scale.ionian
+        </option>
+        <option
+          class="c23"
+          value="1"
+        >
+          scale.dorian
+        </option>
+        <option
+          class="c23"
+          value="2"
+        >
+          scale.phrigian
+        </option>
+        <option
+          class="c23"
+          value="3"
+        >
+          scale.lydian
+        </option>
+        <option
+          class="c23"
+          value="4"
+        >
+          scale.mixolydian
+        </option>
+        <option
+          class="c23"
+          value="5"
+        >
+          scale.aeolian
+        </option>
+        <option
+          class="c23"
+          value="6"
+        >
+          scale.locrian
+        </option>
+        <option
+          class="c23"
+          value="7"
+        >
+          scale.harmonic-minor
+        </option>
+        <option
+          class="c23"
+          value="8"
+        >
+          scale.melodic-minor
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      map-config.functions
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+            <button
+              class="c15"
+            >
+              Ped.
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c16"
+              disabled=""
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+            <button
+              class="c15"
+            >
+              Ped.
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c15"
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              8vb
+            </button>
+            <button
+              class="c15"
+            >
+              Ped.
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c1"
+      >
+        <div
+          class="c2"
+        >
+          <svg />
+        </div>
+        <div
+          class="c3"
+        />
+        <div
+          class="c4"
+        >
+          <div
+            class="c14"
+          >
+            <button
+              class="c15"
+            >
+              ♯
+            </button>
+            <button
+              class="c16"
+              disabled=""
+            >
+              ♭
+            </button>
+            <button
+              class="c15"
+            >
+              8va
+            </button>
+            <button
+              class="c15"
+            >
+              8vb
+            </button>
+            <button
+              class="c15"
+            >
+              Ped.
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Panels/SynthConfigPanel Default 1`] = `
+.c10 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c5 {
+  padding: calc(0.5rem - 1px);
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  color: unset;
+  background: unset;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+}
+
+.c6 {
+  background: white;
+  color: black;
+}
+
+.c7 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c8 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c12 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: gray;
+  color: white;
+  cursor: not-allowed;
+}
+
+.c13 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c16 {
+  color: gray;
+  font-size: 80%;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.source
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <select
+        class="c5"
+      >
+        <option
+          class="c6"
+          selected=""
+          value="0"
+        >
+          synth-config.oscillator
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.waveform
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <select
+        class="c5"
+      >
+        <option
+          class="c6"
+          value="0"
+        >
+          synth-config.sine
+        </option>
+        <option
+          class="c6"
+          value="1"
+        >
+          synth-config.square
+        </option>
+        <option
+          class="c6"
+          value="2"
+        >
+          synth-config.triangle
+        </option>
+        <option
+          class="c6"
+          value="3"
+        >
+          synth-config.sawtooth
+        </option>
+        <option
+          class="c6"
+          value="4"
+        >
+          synth-config.fatsine
+        </option>
+        <option
+          class="c6"
+          value="5"
+        >
+          synth-config.fatsquare
+        </option>
+        <option
+          class="c6"
+          value="6"
+        >
+          synth-config.fattriangle
+        </option>
+        <option
+          class="c6"
+          selected=""
+          value="7"
+        >
+          synth-config.fatsawtooth
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.detune
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            synth-config.cent
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.number-of-oscillators
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            3
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.spread
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            synth-config.cent
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.attack
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c14"
+            disabled=""
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            0.000 s
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.decay
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c14"
+            disabled=""
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            0.000 s
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.sustain
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            1.000
+          </div>
+          <button
+            class="c14"
+            disabled=""
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.release
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            0.500 s
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      synth-config.volume
+    </div>
+    <div
+      class="c3"
+    />
+    <div
+      class="c4"
+    >
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="24"
+                width="24"
+              />
+              <rect
+                fill-rule="evenodd"
+                height="2"
+                width="16"
+                x="4"
+                y="11"
+              />
+            </svg>
+          </button>
+          <div
+            class="c11"
+          >
+            <div
+              class="c15"
+            >
+              <div>
+                0.100
+              </div>
+              <p
+                class="c16"
+              >
+                -20.0
+                 dB
+              </p>
+            </div>
+          </div>
+          <button
+            class="c9"
+          >
+            <svg
+              aria-hidden="true"
+              class="c10"
+              fill="currentColor"
+              focusable="false"
+              height="18"
+              viewBox="0 0 24 24"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c12"
+        >
+          <input
+            class="c13"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Panels/SystemConfig Default 1`] = `
+.c10 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: white;
+  color: black;
+  padding: calc(0.5rem - 1px);
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c6 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c7:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c8:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c8:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+.c9 {
+  padding: calc(0.5rem - 1px);
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  color: unset;
+  background: unset;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 500px;
+}
+
+.c1 {
+  font-size: 1.5rem;
+}
+
+<div
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    system-config.title
+  </h1>
+  <div
+    class="c2"
+  >
+    <div
+      class="c3"
+    >
+      system-config.theme
+    </div>
+    <div
+      class="c4"
+    />
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <button
+          class="c7"
+          disabled=""
+        >
+          system-config.auto
+        </button>
+        <button
+          class="c8"
+        >
+          system-config.light
+        </button>
+        <button
+          class="c8"
+        >
+          system-config.dark
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c2"
+  >
+    <div
+      class="c3"
+    >
+      system-config.language
+    </div>
+    <div
+      class="c4"
+    />
+    <div
+      class="c5"
+    >
+      <select
+        class="c9"
+      />
+    </div>
+  </div>
+  <button
+    class="c10"
+    color="default"
+  >
+    system-config.close
+  </button>
+</div>
+`;
+
+exports[`Storyshots Panels/VisualizerConfigPanel Default 1`] = `
+.c7 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c26 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: royalblue;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c13 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c15 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c16:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c16:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+.c17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c17:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c19 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c20 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c23 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c22 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c24 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.c1 {
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  gap: 0.5rem;
+  font-weight: bold;
+}
+
+.c3 {
+  padding: 0.5rem;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c6:hover {
+  background: royalblue;
+  color: white;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: gray;
+  cursor: not-allowed;
+}
+
+.c8:hover {
+  background: unset;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.c9:hover {
+  background: crimson;
+  color: white;
+}
+
+.c4 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 0.5rem;
+  gap: 0.5rem;
+}
+
+.c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 0.5rem;
+  gap: 0.5rem;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c25 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        class="c3"
+      >
+        visualizer-config.note-name
+      </div>
+      <div
+        class="c4"
+      />
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+            />
+          </svg>
+        </button>
+        <button
+          class="c8"
+          disabled=""
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+            />
+          </svg>
+        </button>
+        <button
+          class="c9"
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              fill="none"
+            />
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12l1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div
+      class="c10"
+    >
+      <div
+        class="c11"
+      >
+        <div
+          class="c12"
+        >
+          visualizer-config.show-octave
+        </div>
+        <div
+          class="c13"
+        />
+        <div
+          class="c14"
+        >
+          <div
+            class="c15"
+          >
+            <button
+              class="c16"
+            >
+              visualizer-config.off
+            </button>
+            <button
+              class="c17"
+              disabled=""
+            >
+              visualizer-config.on
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c11"
+      >
+        <div
+          class="c12"
+        >
+          visualizer-config.show-button
+        </div>
+        <div
+          class="c13"
+        />
+        <div
+          class="c14"
+        >
+          <div
+            class="c15"
+          >
+            <button
+              class="c16"
+            >
+              visualizer-config.off
+            </button>
+            <button
+              class="c17"
+              disabled=""
+            >
+              visualizer-config.on
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        class="c3"
+      >
+        visualizer-config.keyboard
+      </div>
+      <div
+        class="c4"
+      />
+      <div
+        class="c5"
+      >
+        <button
+          class="c8"
+          disabled=""
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+            />
+          </svg>
+        </button>
+        <button
+          class="c6"
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+            />
+          </svg>
+        </button>
+        <button
+          class="c9"
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              fill="none"
+            />
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12l1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div
+      class="c18"
+    >
+      <div
+        class="c11"
+      >
+        <div
+          class="c12"
+        >
+          visualizer-config.pitch
+        </div>
+        <div
+          class="c13"
+        />
+        <div
+          class="c14"
+        >
+          <div
+            class="c15"
+          >
+            <button
+              class="c16"
+            >
+              visualizer-config.absolute
+            </button>
+            <button
+              class="c17"
+              disabled=""
+            >
+              visualizer-config.relative
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c11"
+      >
+        <div
+          class="c12"
+        >
+          visualizer-config.range
+        </div>
+        <div
+          class="c13"
+        />
+        <div
+          class="c14"
+        >
+          <div
+            class="c19"
+          >
+            <div
+              class="c20"
+            >
+              <button
+                class="c21"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c7"
+                  fill="currentColor"
+                  focusable="false"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  width="18"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <rect
+                    fill="none"
+                    height="24"
+                    width="24"
+                  />
+                  <rect
+                    fill-rule="evenodd"
+                    height="2"
+                    width="16"
+                    x="4"
+                    y="11"
+                  />
+                </svg>
+              </button>
+              <div
+                class="c22"
+              >
+                visualizer-config.octave
+              </div>
+              <button
+                class="c21"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c7"
+                  fill="currentColor"
+                  focusable="false"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  width="18"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <div
+              class="c23"
+            >
+              <input
+                class="c24"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c11"
+      >
+        <div
+          class="c12"
+        >
+          visualizer-config.highlight-standby
+        </div>
+        <div
+          class="c13"
+        />
+        <div
+          class="c14"
+        >
+          <div
+            class="c15"
+          >
+            <button
+              class="c16"
+            >
+              visualizer-config.off
+            </button>
+            <button
+              class="c17"
+              disabled=""
+            >
+              visualizer-config.on
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c25"
+  >
+    <button
+      class="c26"
+      color="primary"
+    >
+      <svg
+        aria-hidden="true"
+        class="c7"
+        fill="currentColor"
+        focusable="false"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+      visualizer-config.add-visualizer
+    </button>
+    <button
+      class="c26"
+      color="primary"
+    >
+      <svg
+        aria-hidden="true"
+        class="c7"
+        fill="currentColor"
+        focusable="false"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+      visualizer-config.add-visualizer
+    </button>
+    <button
+      class="c26"
+      color="primary"
+    >
+      <svg
+        aria-hidden="true"
+        class="c7"
+        fill="currentColor"
+        focusable="false"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+      visualizer-config.add-visualizer
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Sections/Footer Default 1`] = `
+.c0 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100vh;
+  background: #333333;
+  color: #aaaaaa;
+}
+
+.c1 {
+  padding: 0.5rem;
+}
+
+.c1:not(:first-child) {
+  padding-top: 0;
+}
+
+.c2:link {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+<div
+  class="c0"
+>
+  <p
+    class="c1"
+  >
+    ©
+     
+    <a
+      class="c2"
+      href="https://livewing.net/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      livewing.net
+    </a>
+  </p>
+  <p
+    class="c1"
+  >
+    footer.license
+    
+    <a
+      class="c2"
+      href="https://github.com/livewing/web-conv/blob/main/LICENSE"
+      rel="noopener noreferrer"
+      target="_blank"
+    />
+  </p>
+</div>
+`;
+
+exports[`Storyshots Sections/Header Default 1`] = `
+.c4 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: royalblue;
+  color: white;
+}
+
+.c1 {
+  font-size: 150%;
+  padding: 0.5rem;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.5rem;
+  gap: 0.5rem;
+  border-radius: 0.25rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    header.title
+  </div>
+  <div
+    class="c2"
+  >
+    <button
+      class="c3"
+    >
+      <a
+        href="https://github.com/livewing/web-conv"
+        rel="noopener noreferrer"
+        target="_blank"
+        title="GitHub"
+      >
+        <svg
+          aria-hidden="true"
+          class="c4"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 496 512"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+            fill="currentColor"
+          />
+        </svg>
+      </a>
+    </button>
+    <button
+      class="c3"
+    >
+      <a
+        href="https://github.com/livewing/web-conv/blob/main/doc/how-to-use.md"
+        rel="noopener noreferrer"
+        target="_blank"
+        title="Help"
+      >
+        <svg
+          aria-hidden="true"
+          class="c4"
+          fill="currentColor"
+          focusable="false"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"
+          />
+        </svg>
+      </a>
+    </button>
+    <button
+      class="c3"
+    >
+      <svg
+        aria-hidden="true"
+        class="c4"
+        fill="currentColor"
+        focusable="false"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0V0z"
+          fill="none"
+        />
+        <path
+          d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 00.12-.61l-1.92-3.32a.488.488 0 00-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.484.484 0 00-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58a.49.49 0 00-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/Button Danger 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: crimson;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  class="c0"
+  color="danger"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots UI/Button Default 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: white;
+  color: black;
+  padding: calc(0.5rem - 1px);
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  class="c0"
+  color="default"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots UI/Button Full Width 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: white;
+  color: black;
+  padding: calc(0.5rem - 1px);
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  class="c0"
+  color="default"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots UI/Button Primary 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: royalblue;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<button
+  class="c0"
+  color="primary"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots UI/ChordEditor Default 1`] = `
+.c2 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: royalblue;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 0.5rem;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+    color="primary"
+  >
+    <svg
+      aria-hidden="true"
+      class="c2"
+      fill="currentColor"
+      focusable="false"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0z"
+        fill="none"
+      />
+      <path
+        d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+      />
+    </svg>
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/ConfigRow Default 1`] = `
+.c4 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: white;
+  color: black;
+  padding: calc(0.5rem - 1px);
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c2 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    Left
+  </div>
+  <div
+    class="c2"
+  />
+  <div
+    class="c3"
+  >
+    <button
+      class="c4"
+      color="default"
+    >
+      Right
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/ConfigSectionBar Default 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.c1 {
+  border-bottom: 2px solid gray;
+  min-width: 0.5rem;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  />
+</div>
+`;
+
+exports[`Storyshots UI/ConfigSectionBar With Title 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  border-bottom: 2px solid gray;
+  min-width: 0.5rem;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  />
+  <div
+    class="c2"
+  >
+    Title
+  </div>
+  <div
+    class="c1"
+  />
+</div>
+`;
+
+exports[`Storyshots UI/EnvelopeEditor Default 1`] = `
+.c7 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c2 {
+  border-bottom: 1px dashed gray;
+  margin: 0 0.5rem;
+  min-width: 0.5rem;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.c4 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c10 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: gray;
+  color: white;
+  cursor: not-allowed;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c11 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    synth-config.attack
+  </div>
+  <div
+    class="c2"
+  />
+  <div
+    class="c3"
+  >
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <button
+          class="c6"
+          disabled=""
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="18"
+            viewBox="0 0 24 24"
+            width="18"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="24"
+              width="24"
+            />
+            <rect
+              fill-rule="evenodd"
+              height="2"
+              width="16"
+              x="4"
+              y="11"
+            />
+          </svg>
+        </button>
+        <div
+          class="c8"
+        >
+          0.000 s
+        </div>
+        <button
+          class="c9"
+        >
+          <svg
+            aria-hidden="true"
+            class="c7"
+            fill="currentColor"
+            focusable="false"
+            height="18"
+            viewBox="0 0 24 24"
+            width="18"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              fill="none"
+            />
+            <path
+              d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        class="c10"
+      >
+        <input
+          class="c11"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/GamepadButtonAssign Default 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  width: 100px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c2 {
+  color: gray;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: black;
+  background: white;
+  -webkit-box-flex: 2;
+  -webkit-flex-grow: 2;
+  -ms-flex-positive: 2;
+  flex-grow: 2;
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      input-config.none
+    </div>
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/Input Default 1`] = `
+.c0 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: calc(0.5rem - 1px);
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  color: unset;
+  background: unset;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+}
+
+.c0:focus {
+  border-color: royalblue;
+}
+
+<input
+  class="c0"
+/>
+`;
+
+exports[`Storyshots UI/Modal Default 1`] = `
+.c0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #80808080;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  z-index: 10000;
+}
+
+.c1 {
+  background: white;
+  color: black;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px -5px black;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <p>
+      Hello
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/Segment Colored 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c1:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: crimson;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c2:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+  >
+    Gamepad
+  </button>
+  <button
+    class="c1"
+  >
+    Synth
+  </button>
+  <button
+    class="c2"
+    disabled=""
+  >
+    Delete
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/Segment Default 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c1:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c2:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c2:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+    disabled=""
+  >
+    Item 1
+  </button>
+  <button
+    class="c2"
+  >
+    Item 2
+  </button>
+  <button
+    class="c2"
+  >
+    Item 3
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/Segment Full Width 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c1:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c2:not(:first-child) {
+  border-left: 1px solid gray;
+}
+
+.c2:hover {
+  border-bottom: 2px solid royalblue;
+  padding-bottom: calc(0.5rem - 2px - 1px);
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+    disabled=""
+  >
+    Item 1
+  </button>
+  <button
+    class="c2"
+  >
+    Item 2
+  </button>
+  <button
+    class="c2"
+  >
+    Item 3
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/Segment Vertical 1`] = `
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.c1:not(:first-child) {
+  border-top: 1px solid gray;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: white;
+  color: black;
+  min-width: 2rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c2:not(:first-child) {
+  border-top: 1px solid gray;
+}
+
+.c2:hover {
+  border-right: 2px solid royalblue;
+  padding-right: calc(0.5rem - 2px - 1px);
+}
+
+<div
+  class="c0"
+>
+  <button
+    class="c1"
+    disabled=""
+  >
+    Item 1
+  </button>
+  <button
+    class="c2"
+  >
+    Item 2
+  </button>
+  <button
+    class="c2"
+  >
+    Item 3
+  </button>
+</div>
+`;
+
+exports[`Storyshots UI/Select Default 1`] = `
+.c0 {
+  padding: calc(0.5rem - 1px);
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  color: unset;
+  background: unset;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+}
+
+.c1 {
+  background: white;
+  color: black;
+}
+
+<select
+  class="c0"
+>
+  <option
+    class="c1"
+    value="0"
+  >
+    Item 1
+  </option>
+  <option
+    class="c1"
+    selected=""
+    value="1"
+  >
+    Item 2
+  </option>
+  <option
+    class="c1"
+    value="2"
+  >
+    Item 3
+  </option>
+</select>
+`;
+
+exports[`Storyshots UI/ValueEditor Custom 1`] = `
+.c3 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c6 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: gray;
+  color: white;
+  cursor: not-allowed;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c7 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <button
+      class="c2"
+      disabled=""
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="none"
+          height="24"
+          width="24"
+        />
+        <rect
+          fill-rule="evenodd"
+          height="2"
+          width="16"
+          x="4"
+          y="11"
+        />
+      </svg>
+    </button>
+    <div
+      class="c4"
+    >
+      0 px
+    </div>
+    <button
+      class="c5"
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    class="c6"
+  >
+    <input
+      class="c7"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/ValueEditor Default 1`] = `
+.c3 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c6 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: gray;
+  color: white;
+  cursor: not-allowed;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c7 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <button
+      class="c2"
+      disabled=""
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="none"
+          height="24"
+          width="24"
+        />
+        <rect
+          fill-rule="evenodd"
+          height="2"
+          width="16"
+          x="4"
+          y="11"
+        />
+      </svg>
+    </button>
+    <div
+      class="c4"
+    >
+      0
+    </div>
+    <button
+      class="c5"
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    class="c6"
+  >
+    <input
+      class="c7"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots UI/VolumeEditor Default 1`] = `
+.c3 {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: relative;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.c1 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: visible;
+}
+
+.c8 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  min-width: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: calc(0.5rem - 1px);
+  background: gray;
+  color: white;
+  cursor: not-allowed;
+}
+
+.c9 {
+  width: 100%;
+  height: 100%;
+  padding: calc(0.5rem - 1px);
+  border: none;
+  border-radius: 0;
+  outline: none;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6 {
+  color: gray;
+  font-size: 80%;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <button
+      class="c2"
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="none"
+          height="24"
+          width="24"
+        />
+        <rect
+          fill-rule="evenodd"
+          height="2"
+          width="16"
+          x="4"
+          y="11"
+        />
+      </svg>
+    </button>
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <div>
+          1.000
+        </div>
+        <p
+          class="c6"
+        >
+          0.0
+           dB
+        </p>
+      </div>
+    </div>
+    <button
+      class="c7"
+      disabled=""
+    >
+      <svg
+        aria-hidden="true"
+        class="c3"
+        fill="currentColor"
+        focusable="false"
+        height="18"
+        viewBox="0 0 24 24"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h24v24H0z"
+          fill="none"
+        />
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    class="c8"
+  >
+    <input
+      class="c9"
+    />
+  </div>
+</div>
+`;
